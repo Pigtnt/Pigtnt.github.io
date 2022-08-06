@@ -17,6 +17,5 @@ btn.addEventListener("click", function(){
         `;
     }
     title.value = "";
-    content.value = "";
-    
+    content.value = ""; 
 })
